@@ -1,0 +1,32 @@
+.screen{
+    margin: 0 auto;
+    text-align: center;
+}
+#myCanvas1{
+    background-image: url("./Background.jpg");
+}
+.btns{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#playButton{
+    padding: 0.2rem 0.7rem;
+    margin-right: 2rem;
+    font-size: 1rem;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
+.ResetBtn{
+    padding: 0.2rem 0.7rem;
+    margin-right: 2rem;
+    font-size: 1rem;
+    background-color: rgb(64, 64, 243);
+    color: white;
+    border: none;
+    border-radius: 8px;
+
+}
